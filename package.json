@@ -1,0 +1,12 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "<font color=red>重点要求：架构图流程图必须可以手绘；涉及底层算法和数据结构必须能手写代码；底层原理必须表达清楚明白；业务逻辑和场景必须条理清晰</font>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
